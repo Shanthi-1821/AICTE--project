@@ -88,6 +88,4 @@ This project aims to analyze and predict employee burnout levels using machine l
 
 ---
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
